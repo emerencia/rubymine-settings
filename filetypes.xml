@@ -1,0 +1,54 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="REQUIREMENTS" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="README_LOGIN" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="API" type="PLAIN_TEXT" />
+      <mapping pattern="RUNNING_UNIT_TESTS" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="DSL Sample" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="textile" type="PLAIN_TEXT" />
+      <removed_mapping ext="rdoc" type="RDOC" />
+      <mapping pattern="bcms" type="Ruby" />
+      <mapping pattern="runner" type="Ruby" />
+      <mapping pattern="dbconsole" type="Ruby" />
+      <mapping pattern="merge" type="Ruby" />
+      <mapping pattern="deploy" type="Ruby" />
+      <mapping pattern="browsercms" type="Ruby" />
+      <mapping pattern="whatever" type="Ruby" />
+      <mapping pattern="destroy" type="Ruby" />
+      <mapping pattern="migrate" type="Ruby" />
+      <mapping pattern="Guardfile" type="Ruby" />
+      <mapping pattern="Capfile" type="Ruby" />
+      <mapping pattern="relevances" type="Ruby" />
+      <mapping pattern="generate" type="Ruby" />
+      <mapping pattern="about" type="Ruby" />
+      <mapping pattern="spring" type="Ruby" />
+      <mapping pattern="copy_remote_production_db_to_local" type="Ruby" />
+      <mapping pattern="monitoring" type="Ruby" />
+      <mapping pattern="seeds" type="Ruby" />
+      <mapping pattern="updateschema" type="Ruby" />
+      <mapping pattern="export" type="Ruby" />
+      <mapping pattern="server" type="Ruby" />
+      <mapping pattern="html2haml" type="Ruby" />
+      <mapping pattern="plugin" type="Ruby" />
+      <mapping pattern="console" type="Ruby" />
+      <mapping pattern="rebuild_roa" type="Ruby" />
+      <mapping ext="tags" type="Ruby" />
+      <mapping ext="irb_history" type="Ruby" />
+      <mapping ext="summary" type="Ruby" />
+      <mapping ext="rspec" type="Ruby" />
+      <mapping ext="irbrc" type="Ruby" />
+      <mapping ext="lock" type="Ruby" />
+      <removed_mapping ext="ru" type="Ruby" />
+      <removed_mapping ext="scss" type="SCSS" />
+      <mapping ext="tmpl" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
