@@ -1,0 +1,3 @@
+<keymap version="1" name="Hello" parent="Mac OS X 10.5+">
+  <action id="EditorCutLineEnd" />
+</keymap>
