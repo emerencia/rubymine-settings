@@ -1,4 +1,4 @@
-<keymap version="1" name="aaaa" parent="Mac OS X 10.5+">
+<keymap version="1" name="aaaa">
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
